@@ -26,11 +26,48 @@ Passionate about **full-stack development**, **3D design**, **game engine tools*
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### **Backend**
+### **Backend & Full-Stack Development**
+
+<!-- Backend Frameworks -->
 [![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+---
+
+### **Databases**
 [![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+
+---
+
+### **API & Security**
 [![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
+[![Authentication](https://img.shields.io/badge/Authentication-FF6F00?style=for-the-badge&logo=auth0&logoColor=white)](https://auth0.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![OAuth2](https://img.shields.io/badge/OAuth2-3A3A3A?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/2/)
+[![API Security](https://img.shields.io/badge/API_Security-5A5A5A?style=for-the-badge)](https://owasp.org/www-project-api-security/)
+
+---
+
+### **Programming Languages for Backend**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
+
+---
+
+### **API Tools**
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com/)
 
 ---
 
@@ -72,8 +109,8 @@ Passionate about **full-stack development**, **3D design**, **game engine tools*
 ---
 
 # 📝 Test Scores
-- 📘 **SAT:** 1060 (2023)  
-- 🎧 **IELTS:** Band **6.5** (2023)  
+- 📘 **SAT:** 1060 (2022)  
+- 🎧 **IELTS:** Band **6.5** (2022)  
 
 ---
 
