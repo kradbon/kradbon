@@ -83,11 +83,27 @@ Passionate about **full-stack development**, **3D design**, **game engine tools*
 
 ---
 
-## 🧰 Tools & Software  
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
+## 🖥️ Tools & Software
+
+### 3D & Game Development
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[![Substance 3D Painter](https://img.shields.io/badge/Substance_3D_Painter-FF6A00?style=for-the-badge&logo=adobe&logoColor=white)](https://substance3d.adobe.com/documentation/painter/)
+
+### Design & Media
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://helpx.adobe.com/photoshop/tutorials.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](https://helpx.adobe.com/premiere-pro/tutorials.html)
+[![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](https://helpx.adobe.com/after-effects/tutorials.html)
+[![Adobe Audition](https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white)](https://helpx.adobe.com/audition/tutorials.html)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+
+### Office & Productivity
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/microsoft-365/)
 [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/)
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/microsoft-365)
+[![Internet Research Tools](https://img.shields.io/badge/Internet_Research-1E90FF?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com/)
 
 ---
 
